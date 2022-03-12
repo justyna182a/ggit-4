@@ -1,0 +1,22 @@
+/*li   {color: tomato;
+                    background-color: rgb(113, 32, 96);
+                    border: 5px yellowgreen;
+                }*/
+                div {background-color: wheat;
+                    font-size: 20px;
+                    margin-bottom: 50px;
+                    color: turquoise;
+
+                }
+                .red-font {
+                    color: red;
+                }
+                #my-list {
+                    background-color: sandybrown;
+                }
+                a:hover {
+                    background-color: silver;
+                }
+                div::first-line {
+                    color: rgb(40, 17, 187);
+                }
